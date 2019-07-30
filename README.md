@@ -1,6 +1,6 @@
 # [Free Bootstrap Wizard](http://demos.creative-tim.com/wizard-demo-register)
-<img src="assets/img/123.jpg">
 
+![alt text](https://www1.zippyshare.com/v/LDwnYeTo/file.html)
 
 Fully responsive wizard that comes with 3 useful examples and 5 bright colors. The Bootstrap Wizard is one of the most handy elements that can be used inside a project. We highly recommend it not just as a design feature, but as a way of guiding your users through tough forms.
 
