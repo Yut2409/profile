@@ -1,4 +1,4 @@
-# [ใบประกอบวิชาชีพครู](http://profile/index.html)
+# [ใบประกอบวิชาชีพครู](https://github.com/Yut2409/profile/blob/master/index.html)
 
 ![alt text](http://assets/img/123.JPG)
 
